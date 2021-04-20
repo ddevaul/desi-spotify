@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-lvn@--su6i63mwb6rpguv5q)fmp3%ul6kt=hy+g=*g#n#c%#gb
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['desi-spotify.herokuapp.com/']
+ALLOWED_HOSTS = ['desi-spotify.herokuapp.com', 'localhost']
 
 
 # Application definition
